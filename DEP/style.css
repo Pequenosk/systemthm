@@ -193,8 +193,9 @@ a {
     padding: 1em;
     color: var(--first-color);
     background-color: #fff;
-    max-width: 190px;
+    width: 190px;
     margin: 1em;
+    display: inline-table;
 }
 .card-cape:hover {
     background-color: var(--first-color);
