@@ -193,7 +193,7 @@ a {
     padding: 1em;
     color: var(--first-color);
     background-color: #fff;
-    width: 190px;
+    max-width: 190px;
     margin: 1em;
     display: inline-table;
 }
