@@ -3,7 +3,7 @@
 :root {
     --header-height: 3rem;
     --nav-width: 68px;
-    --first-color: #000d3c;
+    --first-color: #345b00;
     --first-color-light: #acacac;
     --white-color: #F7F6FB;
     --dip-color: #0b0b66;
@@ -174,7 +174,7 @@ a {
     }
 
     .show {
-        width: calc(var(--nav-width) + 163px)
+        width: calc(var(--nav-width) + 190px)
     }
 
     .body-pd {
